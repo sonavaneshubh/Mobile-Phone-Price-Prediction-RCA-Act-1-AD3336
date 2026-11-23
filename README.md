@@ -142,10 +142,16 @@ Through this project, I learned:
 - Simple Linear Regression implementation.
 - Regression model evaluation.
 - Making predictions on new data.
+**🎓 Faculty Submission**
+
+## 🎓 Faculty Submission
+
+GitHub ID: [complexiota](https://github.com/complexiota)
 
 ## 👨‍💻 Author
 
 **Shubham Sonawane**
+**Roll No - AD3336**
 
 AI & Data Science Engineering Student
 
